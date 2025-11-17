@@ -7,8 +7,8 @@ A fazer:
 
 - Criar uma pasta para cada semestre, totalizando 8 pastas;
 - Criar em cada pasta, nome de todas as matérias;
-- Subir todas os projetos desenvolvidos em programação de todas as matérias;
-- Criar uma pasta da Alura; (Opicional) # Provavelmente criar um novo repositório
+- Subir todas os projetos desenvolvidos em programação de todas as matérias;   # Provavelmente será necessário utilizar .git para subir os datasets de algumas matérias, assim como fiz com os datasets do SENAI
+- Criar uma pasta da Alura; (Opicional)                                        # Provavelmente criar um novo repositório
 
 - Ajeitar este Readme
 - Lembrar que Algoritimos e Estruturas de Dados (Aulas de C) estão na conta do OnlineGDB
